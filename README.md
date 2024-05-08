@@ -281,7 +281,7 @@ qiime tools export \
 ## RESULTS 
 ###### Data Preprocessing: quality control and trimming reads
 
-![](<img width="509" alt="1" src="https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/assets/143748165/0371a690-9147-4f05-a2c5-a4cffb439c80">)
+![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/1.png)
 
 ## CONCLUSION 
 
