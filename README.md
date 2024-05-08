@@ -6,6 +6,10 @@ Data from fish genome sequencing studies conducted in the Great Bay and Wells re
 The final presentation summarizing the findings of the genomic analysis can be accessed via [the provided link](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project). All the code utilized for this project is accessible within this README.md, ensuring transparency and reproducibility of the analysis steps.
 
 ## METHOD
+
+#### PERMANOVA: Group significance plots
+![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/1a.png)
+
 #### 1. Data Collection: 
 Raw sequencing reads (FASTQ format) were provided for further analysis on the ron platform.
 
@@ -279,12 +283,44 @@ qiime tools export \
 
 
 ## RESULTS 
-###### Data Preprocessing: quality control and trimming reads
+#### Data Preprocessing: quality control and trimming reads
 
 ![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/1.png)
 
-###### Data Preprocessing: quality control and trimming reads
+#### Data Preprocessing: quality control and trimming reads
 ![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/2.png)
+
+#### Data Preprocessing: quality control and trimming reads
+![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/3.png)
+
+#### Data Preprocessing: quality control and trimming reads
+![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/4.png)
+
+#### Denoising: Great Bay
+![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/5.png)
+
+#### Denoising: Wells
+![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/6.png)
+
+#### Taxonomic Assignment
+![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/7.png)
+
+
+#### Taxonomic Classification
+![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/8.png)
+
+#### phylogenetic placement of ASVs
+![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/9.png)
+
+#### Diversity Statistics: Beta diversity
+![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/11.png)
+![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/12.png)
+
+#### Diversity Statistics: Alpha diversity
+![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/13.png)
+
+#### PERMANOVA: Group significance plots
+![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/14.png)
 
 
 ## CONCLUSION 
