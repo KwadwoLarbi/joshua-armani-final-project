@@ -94,7 +94,7 @@ All codes used in this project and short explanations for each tool are found in
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=KwadwoLarbi&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: yellow), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=KwadwoLarbi&show_icons=true" />
 </picture>
