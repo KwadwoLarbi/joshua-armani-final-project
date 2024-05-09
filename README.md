@@ -82,3 +82,4 @@ Rosen MJ, Callahan BJ, Fisher DS, Holmes SP. 2012. Denoising PCR-amplified metag
 Xiong F, Shu L, Gan X, Zeng H, He S, Peng Z. 2022. Methodology for fish biodiversity monitoring with environmental DNA metabarcoding: the primers, databases and bioinformatic pipelines. Water Biol Secur. 1:100007
 Zhu, Τ., Sato, Y., Sadõ, T., Miya, M., & Iwasaki, W. (2023). MiToFish, MitoAnnotator, and MiFISH Pipeline: Updates in 10 years. Molecular Biology and Evolution, 40(3). https://doi.org/10.1093/molbev/msad035 
 
+![](https://github-readme-stats.vercel.app/api?username=KwadwoLarbi/joshua-armani-qiayra_final-project&show_icons=true&theme=radical)
