@@ -68,6 +68,17 @@ Core metrics analysis was conducted to assess alpha and beta diversity measures 
 ![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/14.png)
 
 
-## CONCLUSION 
+## CONCLUSION AND FINAL REMARK
+There were a lot of plot we could include because we don’t know how to interpret them.
+
+There were a lot of plot we could include because we don’t know how to interpret them.
+
+All codes used in this project and short explanations for each tool are found in our github repo in the code.sh file 
+
 
 ## BIBLIOGRAPHY
+Yao M, Zhang S, Lu Q, Chen X, Zhang SY, Kong Y, Zhao J. 2022. Fishing for fish environmental DNA: ecological applications, methodological considerations, surveying designs, and ways forward. Mol Ecol. 31:5132–5164.
+Rosen MJ, Callahan BJ, Fisher DS, Holmes SP. 2012. Denoising PCR-amplified metagenome data. BMC Bioinformatics 13:283. Sato Y, Miya M, Fukunaga T, Sado T, Iwasaki W. 2018. MitoFish and MiFish pipeline: a mitochondrial genome database of fish with an analysis pipeline for environmental DNA metabarcoding. Mol Biol Evol. 35:1553–1555
+Xiong F, Shu L, Gan X, Zeng H, He S, Peng Z. 2022. Methodology for fish biodiversity monitoring with environmental DNA metabarcoding: the primers, databases and bioinformatic pipelines. Water Biol Secur. 1:100007
+Zhu, Τ., Sato, Y., Sadõ, T., Miya, M., & Iwasaki, W. (2023). MiToFish, MitoAnnotator, and MiFISH Pipeline: Updates in 10 years. Molecular Biology and Evolution, 40(3). https://doi.org/10.1093/molbev/msad035 
+
