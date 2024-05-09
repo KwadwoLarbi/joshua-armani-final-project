@@ -86,18 +86,7 @@ All codes used in this project and short explanations for each tool are found in
 4. Zhu, Τ., Sato, Y., Sadõ, T., Miya, M., & Iwasaki, W. (2023). MiToFish, MitoAnnotator, and MiFISH Pipeline: Updates in 10 years. Molecular Biology and Evolution, 40(3). https://doi.org/10.1093/molbev/msad035 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KwadwoLarbi&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KwadwoLarbi&show_icons=true&theme=merko)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KwadwoLarbi&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KwadwoLarbi&show_icons=true"
-    media="(prefers-color-scheme: yellow), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=KwadwoLarbi&show_icons=true" />
-</picture>
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
 
 
 
