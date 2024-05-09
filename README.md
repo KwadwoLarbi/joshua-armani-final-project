@@ -88,4 +88,28 @@ All codes used in this project and short explanations for each tool are found in
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KwadwoLarbi&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KwadwoLarbi&show_icons=true&theme=merko)
 
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      color: #333;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      color: #007bff;
+    }
+    /* Add more custom styles as needed */
+  </style>
+</head>
+<body>
+
+<h1>My Awesome Project</h1>
+<p>This is a README for my project.</p>
+
+</body>
+</html>
+
+
 
