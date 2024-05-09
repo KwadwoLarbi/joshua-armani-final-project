@@ -77,9 +77,13 @@ All codes used in this project and short explanations for each tool are found in
 
 
 ## BIBLIOGRAPHY
-Yao M, Zhang S, Lu Q, Chen X, Zhang SY, Kong Y, Zhao J. 2022. Fishing for fish environmental DNA: ecological applications, methodological considerations, surveying designs, and ways forward. Mol Ecol. 31:5132–5164.
-Rosen MJ, Callahan BJ, Fisher DS, Holmes SP. 2012. Denoising PCR-amplified metagenome data. BMC Bioinformatics 13:283. Sato Y, Miya M, Fukunaga T, Sado T, Iwasaki W. 2018. MitoFish and MiFish pipeline: a mitochondrial genome database of fish with an analysis pipeline for environmental DNA metabarcoding. Mol Biol Evol. 35:1553–1555
-Xiong F, Shu L, Gan X, Zeng H, He S, Peng Z. 2022. Methodology for fish biodiversity monitoring with environmental DNA metabarcoding: the primers, databases and bioinformatic pipelines. Water Biol Secur. 1:100007
-Zhu, Τ., Sato, Y., Sadõ, T., Miya, M., & Iwasaki, W. (2023). MiToFish, MitoAnnotator, and MiFISH Pipeline: Updates in 10 years. Molecular Biology and Evolution, 40(3). https://doi.org/10.1093/molbev/msad035 
+1. Yao M, Zhang S, Lu Q, Chen X, Zhang SY, Kong Y, Zhao J. 2022. Fishing for fish environmental DNA: ecological applications, methodological considerations, surveying designs, and ways forward. Mol Ecol. 31:5132–5164.
+   
+2. Rosen MJ, Callahan BJ, Fisher DS, Holmes SP. 2012. Denoising PCR-amplified metagenome data. BMC Bioinformatics 13:283. Sato Y, Miya M, Fukunaga T, Sado T, Iwasaki W. 2018. MitoFish and MiFish pipeline: a mitochondrial genome database of fish with an analysis pipeline for environmental DNA metabarcoding. Mol Biol Evol. 35:1553–1555
 
-![](https://github-readme-stats.vercel.app/api?username=KwadwoLarbi/joshua-armani-qiayra_final-project&show_icons=true&theme=radical)
+3. Xiong F, Shu L, Gan X, Zeng H, He S, Peng Z. 2022. Methodology for fish biodiversity monitoring with environmental DNA metabarcoding: the primers, databases and bioinformatic pipelines. Water Biol Secur. 1:100007
+
+4. Zhu, Τ., Sato, Y., Sadõ, T., Miya, M., & Iwasaki, W. (2023). MiToFish, MitoAnnotator, and MiFISH Pipeline: Updates in 10 years. Molecular Biology and Evolution, 40(3). https://doi.org/10.1093/molbev/msad035 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KwadwoLarbi&show_icons=true&theme=radical)
+
