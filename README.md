@@ -7,7 +7,7 @@ The final presentation summarizing the findings of the genomic analysis can be a
 
 ## METHOD
 
-#### Workflow Pipeline
+### Workflow Pipeline
 ![](https://github.com/KwadwoLarbi/joshua-armani-qiayra_final-project/blob/main/used%20plots/1a.png)
 
 #### 1. Data Collection: 
