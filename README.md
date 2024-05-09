@@ -17,7 +17,7 @@ Raw sequencing reads (FASTQ format) were provided for further analysis on the ro
 Fastp software was used to perform quality control and trimming of raw sequencing reads to remove low-quality bases and adapter sequences. 
 
 #### 3. Genomic Analysis Pipeline: 
-The QIIME2 bioinformatics platform was employed to process and analyze the preprocessed sequencing data. The pipeline included steps for denoising, taxonomic classification, diversity analysis, and functional annotation of genomic features.
+The QIIME2 bioinformatics platform was employed to process and analyze the preprocessed sequencing data. The pipeline included steps for denoising, taxonomic classification, diversity analysis, and functional annotation of genomic features.https://docs.qiime2.org/2024.2/tutorials/phylogeny/
 
 #### 4. Denosing and Taxonomic Classification: 
 The DADA2 algorithm was applied for denoising paired-end sequencing data, generating high-quality amplicon sequence variants (ASVs). Taxonomic classification of ASVs was performed using reference databases to assign taxonomic labels to the sequences.
