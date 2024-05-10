@@ -69,9 +69,7 @@ Core metrics analysis was conducted to assess alpha and beta diversity measures 
 
 
 ## CONCLUSION AND FINAL REMARK
-There were a lot of plot we could include because we don’t know how to interpret them.
-
-There were a lot of plot we could include because we don’t know how to interpret them.
+There were a lot of plots we could not include because we don’t know how to interpret them.
 
 All codes used in this project and short explanations for each tool are found in our github repo in the code.sh file 
 
