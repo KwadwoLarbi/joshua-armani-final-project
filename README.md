@@ -1,4 +1,4 @@
-# joshua-armani-final-project
+# joshua-armani-qiayra-final-project
 Final Bioinformatic Project Spring 2024
 ## THE STUDY BACKGROUND
 Data from fish genome sequencing studies conducted in the Great Bay and Wells regions were utilized to perform comprehensive genomic analysis following the methods outlined [the provided link](https://github.com/jthmiller/eDNA-metabarcoding-intro/tree/mifish-intro?tab=readme-ov-file)
